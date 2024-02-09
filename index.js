@@ -1,91 +1,91 @@
 const perguntas = [
     {
-      pergunta: "Qual é a sintaxe correta para comentários em JavaScript?",
+      pergunta: "qual é o meu nome?",
       respostas: [
-        "// Comentário A",
-        "/* Comentário B */",
-        "<!-- Comentário C -->",
+        "Nuno Saraiva miguel Pergentino",
+        "Nuno Miguel Pergentino Saraiva",
+        "Miguel nuno Pergentino sSaraiva",
       ],
       correta: 1
     },
     {
-      pergunta: "Qual é a maneira correta de declarar uma variável em JavaScript?",
+      pergunta: "Quem é o Real português da familia?",
       respostas: [
-        "variable nomeVariavel = valor;",
-        "var nomeVariavel = valor;",
-        "let nomeVariavel = valor;",
+        "syja",
+        "Nuno",
+        "Paulo",
       ],
       correta: 2
     },
     {
-      pergunta: "Qual é a função do operador '===' em JavaScript?",
+      pergunta: "Eu terminei meu ensino medio em qual escola?",
       respostas: [
-        "Compara dois valores para igualdade, sem verificar o tipo.",
-        "Compara dois valores para igualdade, verificando o tipo.",
-        "Compara dois valores para desigualdade, sem verificar o tipo.",
+        "GEO",
+        "Plenus",
+        "Auxiladora",
       ],
       correta: 2
     },
     {
-      pergunta: "Como você escreveria 'Hello World' em um alerta em JavaScript?",
+      pergunta: "Qual foi a data do dia que lhe pedi em namoro",
       respostas: [
-        "msgBox('Hello World');",
-        "alert('Hello World');",
-        "alertBox('Hello World');",
+        "07/01",
+        "06/01",
+        "12/01",
       ],
       correta: 1
     },
     {
-      pergunta: "Qual é a função do método 'querySelector()'?",
+      pergunta: "aonde foi nosso primeiro encontro?",
       respostas: [
-        "Selecionar vários elementos com a mesma classe.",
-        "Selecionar um elemento pelo seu ID.",
-        "Selecionar um elemento pelo seu seletor CSS.",
+        "calourada",
+        "orla",
+        "london-pub",
       ],
       correta: 2
     },
     {
-      pergunta: "Qual é o resultado da expressão '5 + '5' em JavaScript?",
+      pergunta: "como eu te chamo?",
       respostas: [
-        "10",
-        "55",
-        "Erro",
+        "kailane",
+        "keliane",
+        "amor",
       ],
       correta: 2
     },
     {
-      pergunta: "Como você pode verificar o tipo de uma variável em JavaScript?",
+      pergunta: "qual é minha bebida favorita?",
       respostas: [
-        "typeof variableName;",
-        "typeOf(variableName);",
-        "getType(variableName);",
+        "vodka",
+        "cerveja",
+        "cachaça",
       ],
       correta: 1
     },
     {
-      pergunta: "Qual é a função do método 'addEventListener()'?",
+      pergunta: "Qual é o curso que eu faço?",
       respostas: [
-        "Adicionar uma classe a um elemento HTML.",
-        "Anexar um manipulador de eventos a um elemento HTML.",
-        "Alterar o conteúdo de um elemento HTML.",
+        "engenharia mecânina",
+        "engenharia elétrica",
+        "engenharia cívil",
       ],
       correta: 2
     },
     {
-      pergunta: "Qual é a saída do código 'console.log(3 + 2 + '5');'?",
+      pergunta: "Qual é o nome do projeto complemantar que faço parte ?",
       respostas: [
-        "10",
-        "7",
-        "Error",
+        "cactus",
+        "fomula",
+        "Baajatinga",
       ],
       correta: 2
     },
     {
-      pergunta: "Qual é a maneira correta de escrever um loop 'for' em JavaScript?",
+      pergunta: "qual é o nome da minha cachorra?",
       respostas: [
-        "for (i = 0; i < 5; i++)",
-        "for (var i = 0; i <= 5; i++)",
-        "for (let i = 0; i < 5; i++)",
+        "xeide",
+        "tequila ",
+        "tequila-xeide",
       ],
       correta: 2
     }
