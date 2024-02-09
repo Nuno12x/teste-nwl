@@ -24,7 +24,7 @@ const perguntas = [
         "Plenus",
         "Auxiladora",
       ],
-      correta: 2
+      correta: 0
     },
     {
       pergunta: "Qual foi a data do dia que lhe pedi em namoro",
